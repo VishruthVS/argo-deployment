@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: vishruthvs/argo:f5dd85666533bc9a120d02b49e007c2942e30518
+    image: vishruthvs/argo:6b4bc613c2300ce5c876206ef19892a4b37076b3
     ports:
     - containerPort: 80
